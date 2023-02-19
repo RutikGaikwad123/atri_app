@@ -1,0 +1,25 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Ubuntu&family=Varela+Round&display=swap');\n",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Ubuntu",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Varela Round",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]

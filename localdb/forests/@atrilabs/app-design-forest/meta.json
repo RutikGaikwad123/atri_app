@@ -1,0 +1,18 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "1cc8ab3c-ab03-481f-84d6-99a2d382fb79": {
+      "name": "rutik",
+      "id": "1cc8ab3c-ab03-481f-84d6-99a2d382fb79",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root",
+    "1d01ed76-83c0-42a5-88f6-6b7b1773011b": "root"
+  }
+}
